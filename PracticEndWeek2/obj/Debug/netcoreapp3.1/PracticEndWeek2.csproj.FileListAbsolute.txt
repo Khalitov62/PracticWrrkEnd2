@@ -1,0 +1,14 @@
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\bin\Debug\netcoreapp3.1\PracticEndWeek2.exe
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\bin\Debug\netcoreapp3.1\PracticEndWeek2.deps.json
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\bin\Debug\netcoreapp3.1\PracticEndWeek2.runtimeconfig.json
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\bin\Debug\netcoreapp3.1\PracticEndWeek2.runtimeconfig.dev.json
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\bin\Debug\netcoreapp3.1\PracticEndWeek2.dll
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\bin\Debug\netcoreapp3.1\PracticEndWeek2.pdb
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\obj\Debug\netcoreapp3.1\PracticEndWeek2.csproj.AssemblyReference.cache
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\obj\Debug\netcoreapp3.1\PracticEndWeek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\obj\Debug\netcoreapp3.1\PracticEndWeek2.AssemblyInfoInputs.cache
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\obj\Debug\netcoreapp3.1\PracticEndWeek2.AssemblyInfo.cs
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\obj\Debug\netcoreapp3.1\PracticEndWeek2.csproj.CoreCompileInputs.cache
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\obj\Debug\netcoreapp3.1\PracticEndWeek2.dll
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\obj\Debug\netcoreapp3.1\PracticEndWeek2.pdb
+C:\Users\tu7m5rk73\source\repos\PracticEndWeek2\PracticEndWeek2\obj\Debug\netcoreapp3.1\PracticEndWeek2.genruntimeconfig.cache
